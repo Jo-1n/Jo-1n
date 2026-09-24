@@ -2,6 +2,6 @@
 <img
   src="https://render.gitanimals.org/farms/Jo-1n"
   width="600"
-  height="300"
+  height="600"
 />
 </a>
