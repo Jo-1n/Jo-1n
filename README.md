@@ -1,7 +1,3 @@
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Jo-1n&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/Jo-1n"
-  width="600"
-  height="600"
-/>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
 </a>
