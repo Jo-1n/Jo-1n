@@ -1,6 +1,6 @@
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Jo-1n&utm_content=farm">
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=blop0128&utm_content=farm">
 <img
-  src="https://render.gitanimals.org/farms/Jo-1n"
+  src="https://render.gitanimals.org/farms/blop0128"
   width="600"
   height="300"
 />
